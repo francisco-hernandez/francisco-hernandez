@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francisco-hernandez&label=Profile%20views&color=0e75b6&style=flat" alt="francisco-hernandez" /> </p>
 
-- 🔭 Actualmente me podrás encontrar en [Estrategias Digitales 360](https://estrategiasdigitales360.com/)
+- 🔭 Actualmente me podrás encontrar en [Estrategias Digitales 360] y [Conexus Group ]
 
 - 🌱 Actualmente me encuentro mejorando en **Vue, React y Laravel**
 
