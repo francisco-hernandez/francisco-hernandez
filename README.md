@@ -9,13 +9,13 @@
 
 - 👯 **Proyect**
 
-- 👨‍💻 Mi portfolio.. [En breve estará disponible](En breve estará disponible)
+- 👨‍💻 Mi portfolio.. [En breve estará disponible].
 
 - 💬 Sobre mi... **Enamorado de WordPress**
 
 - 📫 Como contactarme **trabajo.hernandezmf@gmail.com**
 
-- 📄 Sobre mis experiencias [Trabajé en varías agencias de publicidad y marketing en España y Costa Rica]
+- 📄 Sobre mis experiencias [Trabajé en varías agencias de publicidad y marketing en España y Costa Rica].
 
 - ⚡ Cosas graciosas **Toda la vida está predicha en Los Simpsons**
 
