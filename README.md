@@ -13,7 +13,7 @@
 
 - 💬 Sobre mi... **Enamorado de WordPress**
 
-- 📫 Como contactarme **fhernandez@estrategiasdigitales360.com**
+- 📫 Como contactarme **trabajo.hernandezmf@gmail.com**
 
 - 📄 Sobre mis experiencias [Trabajé en varías agencias de publicidad y marketing en España y Costa Rica](Trabajé en varías agencias de publicidad y marketing en España y Costa Rica)
 
