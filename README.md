@@ -15,7 +15,7 @@
 
 - 📫 Como contactarme **trabajo.hernandezmf@gmail.com**
 
-- 📄 Sobre mis experiencias [Trabajé en varías agencias de publicidad y marketing en España y Costa Rica](Trabajé en varías agencias de publicidad y marketing en España y Costa Rica)
+- 📄 Sobre mis experiencias [Trabajé en varías agencias de publicidad y marketing en España y Costa Rica]
 
 - ⚡ Cosas graciosas **Toda la vida está predicha en Los Simpsons**
 
