@@ -2,7 +2,7 @@
 <h3 align="center">Product Engineer | Frontend + UI/UX | Digital Product Development</h3>
 
 <p align="center">
-Building user-centered digital products through design, frontend development and product thinking.
+I design and build user-centered digital products, combining frontend development, UI/UX design and product thinking.
 </p>
 
 ---
@@ -10,18 +10,18 @@ Building user-centered digital products through design, frontend development and
 ## 🧠 About me
 
 - 💻 Product Engineer with +8 years of experience in web development and UI/UX  
-- 🎯 Focused on building usable, scalable and user-centered digital products  
-- 🎨 Strong background in design + frontend (UI/UX + development)  
+- 🎯 Focused on usability, accessibility and real user problems  
+- 🎨 Strong combination of design + frontend development  
 - 🤝 Experience working with cross-functional teams (design, backend, product)  
-- 🚀 Currently exploring AI-driven workflows for design and development  
+- 🚀 Exploring AI-driven workflows applied to development and design  
 
 ---
 
 ## 🔭 Current work
 
-- 🏢 Working at **Connexus Group** (Costa Rica)  
-- 🎯 Leading design and contributing to frontend development of digital products  
-- 🧩 Building interfaces for platforms, CRMs and internal tools  
+- 🏢 Working at Connexus Group (Costa Rica)  
+- 🎯 Leading design initiatives and contributing to frontend development  
+- 🧩 Building interfaces for digital products (platforms, CRMs, internal tools)  
 
 ---
 
@@ -30,7 +30,7 @@ Building user-centered digital products through design, frontend development and
 - ⚛️ React (fundamentals & real use cases)  
 - ▲ Next.js (modern frontend architecture)  
 - 🚀 Astro (performance-oriented websites)  
-- 🤖 AI tools & generative models applied to development and design  
+- 🤖 AI tools & generative models for development and design  
 
 ---
 
@@ -39,7 +39,7 @@ Building user-centered digital products through design, frontend development and
 **Frontend**
 - HTML5, CSS3, JavaScript
 - Responsive Design
-- Performance optimization
+- Web performance optimization
 
 **UI / UX**
 - Figma
@@ -55,10 +55,10 @@ Building user-centered digital products through design, frontend development and
 
 ## 📂 Projects
 
-🔒 Most professional projects are private (client work)  
+🔒 Most professional work is private (client projects)  
 📌 Selected projects available upon request  
 
-👉 Explore my GitHub:  
+👉 Explore my repositories:  
 https://github.com/francisco-hernandez  
 
 ---
@@ -66,11 +66,12 @@ https://github.com/francisco-hernandez
 ## 📫 Contact
 
 - 📧 trabajo.hernandezmf@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/francisco-miguel-hern%C3%A1ndez-maldonado-741579b0/
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/francisco-miguel-hern%C3%A1ndez-maldonado-741579b0/
 
 ---
 
-## ⚡ Fun fact
+## ⚡ Philosophy
 
-I strongly believe good products are not about personal taste,  
-but about solving real user problems effectively.
+Good products are not about personal taste.  
+They are about solving real problems effectively.
