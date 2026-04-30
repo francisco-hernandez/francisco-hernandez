@@ -27,9 +27,9 @@ Building user-centered digital products through design, frontend development and
 
 ## 🌱 Currently learning
 
-- ⚛️ :contentReference[oaicite:0]{index=0} (fundamentals & real use cases)  
-- ▲ :contentReference[oaicite:1]{index=1} (modern frontend architecture)  
-- 🚀 :contentReference[oaicite:2]{index=2} (performance-oriented websites)  
+- ⚛️ React (fundamentals & real use cases)  
+- ▲ Next.js (modern frontend architecture)  
+- 🚀 Astro (performance-oriented websites)  
 - 🤖 AI tools & generative models applied to development and design  
 
 ---
